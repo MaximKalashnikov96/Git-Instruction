@@ -15,3 +15,4 @@ https://git.scm.com/dowmloads
 git config --global user.name "Имя пользователя"
 git config --global user.email "почта пользователя"
 ```
+## 4. Инициализация репозитория
