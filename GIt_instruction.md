@@ -60,3 +60,7 @@ git switch -c <new-branch-name>
 git switch -
 git checkout master
 ```
+### Для удаление не нужной ветки воспользуйтесь командой:
+```
+git branch -d (имя ненужной ветки)
+```
